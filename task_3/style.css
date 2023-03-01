@@ -1,0 +1,75 @@
+.input {
+    color: rgb(180, 88, 233);
+    border: 1px solid rgb(180, 88, 233);
+    padding: 5px;
+    width: 195px;
+}
+
+.button {
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(180, 88, 233);
+    border: none;
+    padding: 6px;
+}
+
+.form {
+    margin: 100px 100px;
+}
+
+.mes_window {
+    margin: 0 100px;
+    margin-top: -40px;
+    width: 430px;
+    height: 430px;
+    border: 1px solid rgb(180, 88, 233);
+    overflow-y: scroll;
+}
+
+.mes_window::-webkit-scrollbar {
+    width: 10px;
+    background-color: #ffffff;
+}
+
+.mes_window::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: rgb(180, 88, 233);
+}
+
+
+.user_mes {
+    border: 1px solid rgb(94, 94, 94);
+    color: rgb(94, 94, 94);
+    border-radius: 5px;
+    width: 200px;
+    margin: 20px;
+    padding: 5px;
+    margin-left: 180px;
+    word-wrap: break-word;
+}
+
+.server_mes {
+    border: 1px solid rgb(82, 172, 255);
+    color: rgb(82, 172, 255);
+    border-radius: 5px;
+    width: 200px;
+    margin: 20px;
+    padding: 5px;
+    word-wrap: break-word;
+
+}
+
+.geo_mes {
+    border: 1px solid rgb(52, 216, 79);
+    color: rgb(52, 216, 79);
+    border-radius: 5px;
+    width: 200px;
+    margin: 20px;
+    padding: 5px;
+    margin-left: 180px;
+}
+
+.message {
+color: white;
+margin-left: 10px;
+}
